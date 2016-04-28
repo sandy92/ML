@@ -1,3 +1,4 @@
+# uses https://github.com/lisa-lab/deeplearningtutorials
 import pickle
 import gzip
 import pandas as pd
